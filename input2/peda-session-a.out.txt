@@ -1,0 +1,4 @@
+break main
+break /home/bladechen/pwnable/input2/crack.c:14
+break /home/bladechen/pwnable/input2/crack.c:14
+
